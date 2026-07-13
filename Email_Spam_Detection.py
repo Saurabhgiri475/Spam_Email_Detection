@@ -12,12 +12,6 @@ st.set_page_config(
 )
 
 
-
-
-
-
-
-
 model = joblib.load("Email_Spam_Detection.pkl")
 
 subject_map = {
@@ -108,4 +102,3 @@ if st.button("Predict", use_container_width=True):
 
 st.divider()
 
-st.caption("Developed using Streamlit • Scikit-Learn • Logistic Regression")
