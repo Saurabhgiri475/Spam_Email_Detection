@@ -1,4 +1,4 @@
-# Spam_Email_Detection# 📧 Spam Email Detection using Machine Learning
+# 📧 Spam Email Detection using Machine Learning
 
 A Machine Learning and Natural Language Processing (NLP) project that classifies email messages as **Spam** or **Not Spam (Ham)**. The project includes a trained machine learning model and an interactive Streamlit web application for real-time spam detection.
 
